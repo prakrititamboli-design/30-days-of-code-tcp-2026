@@ -1,0 +1,12 @@
+h1 { color:rgb(55, 39, 117)}
+p { background-color:darkgrey}
+body { background-color:rgb(138, 158, 175)}
+*{color:black}
+header {text-align : center} 
+h1 {text-decoration:double }
+*{font-family:'Times New Roman', Times, serif}
+header{ font-size: 80px}
+*{font-size: 25px}
+section{text-transform:capitalize}
+
+
